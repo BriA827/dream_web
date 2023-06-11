@@ -33,8 +33,8 @@ nav{
     left: 0;
 }
 
-.menu{
-    align-items: left;
+.open-button{
+    justify-content: space-evenly;
 }
 
 .close-button{
@@ -43,7 +43,7 @@ nav{
 }
 
 .close-button > i,
-.open-button > i{
+.open > i{
     cursor: pointer;
     font-size: 30px;
 }
