@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box; 
+    font-family: "Comic Sans MS";
 }
 
 body{
@@ -30,6 +31,10 @@ nav{
     position: absolute;
     top: 0;
     left: 0;
+}
+
+.menu{
+    align-items: left;
 }
 
 .close-button{
