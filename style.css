@@ -14,8 +14,9 @@ body{
     align-items: center;
 }
 
-.logo-wrapper{
-    width: 200px;
+.name{
+    font-size: 22px;
+    font-weight: bold;
 }
 
 nav{
