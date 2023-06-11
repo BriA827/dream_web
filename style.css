@@ -1,6 +1,5 @@
 *{
     box-sizing: border-box; 
-    border: solid;
     font-family: "Comic Sans MS";
 }
 
@@ -36,6 +35,7 @@ nav{
 
 .open-button{
     justify-content: space-evenly;
+    border: solid;
 }
 
 .menu{
