@@ -34,6 +34,7 @@ nav{
 }
 
 .open-button{
+    display: inline;
     justify-content: space-evenly;
 }
 
