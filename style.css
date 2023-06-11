@@ -37,6 +37,10 @@ nav{
     justify-content: space-evenly;
 }
 
+.menu{
+    cursor: default;
+    text-items: left;
+
 .close-button{
     width: 80%;
     text-align: right;
