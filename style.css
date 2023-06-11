@@ -33,12 +33,6 @@ nav{
     left: 0;
 }
 
-.menu{
-    cursor: default;
-    text-items: left;
-    border: solid;
-}
-
 .close-button{
     width: 80%;
     text-align: right;
