@@ -49,7 +49,7 @@ nav{
 }
 
 .close-button > i,
-.open{
+.open-button > i{
     cursor: pointer;
     font-size: 30px;
 }
