@@ -33,11 +33,6 @@ nav{
     left: 0;
 }
 
-.open-button{
-    display: inline;
-    justify-content: space-evenly;
-}
-
 .menu{
     cursor: default;
     text-items: left;
