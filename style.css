@@ -49,10 +49,11 @@ nav{
 .open-button > i{
     cursor: pointer;
     font-size: 30px 0;
+    color: black;
 }
 
 .link{
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     font-size: 22px;
     text-decoration: none;
     color: black;
