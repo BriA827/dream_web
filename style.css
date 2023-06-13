@@ -35,7 +35,7 @@ nav{
     justify-content: right;
     align-items: center;
     position: absolute;
-    top: 50%;
+    top: 0;
     right: 0;
 }
 
