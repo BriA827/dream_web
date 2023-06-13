@@ -28,6 +28,7 @@ header{
 
 nav{
     background-color: rgb(255, 255, 102);
+    border: solid rgb(167, 167, 7);
     width: 25%;
     height: 80vh;
     display: none;
@@ -64,16 +65,18 @@ nav{
     font-size: 22px;
 }
 
-.timeline{
-    width: 100%;
-    align-items: center;
-}
-
 h1, h2{
     text-align: center;
 }
 
-.timeline-wrapper{
-    width: 100%;
+.time-wrapper{
+    width: 90%;
+    display: flex;
     align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.steps{
+    width: 1000px;
 }
