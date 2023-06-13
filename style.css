@@ -32,7 +32,7 @@ nav{
     height: 80vh;
     display: none;
     flex-direction: column;
-    justify-content: right;
+    justify-content: space-evenly;
     align-items: center;
     position: absolute;
     top: 0;
