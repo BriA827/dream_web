@@ -73,7 +73,6 @@ h1, h2{
     text-align: center;
 }
 
-.time-wrapper{
-    justify-content: space-around;
-    flex-direction: row;
+.timeline{
+    align-items: center;
 }
