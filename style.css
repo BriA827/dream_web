@@ -74,3 +74,8 @@ nav{
     width: 90%;
     margin: 0px auto;
 }
+
+.time-wrapper{
+    justify-content: space-around;
+    flex-direction: row;
+}
