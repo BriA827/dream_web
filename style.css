@@ -59,7 +59,7 @@ nav{
     color: black;
 }
 
-.drps, .refl, .intros, .chals{
+.drps, .refl, .intros, .chals, .steps{
     width: 90%;
     margin: 0px auto;
     font-size: 22px;
