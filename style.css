@@ -28,7 +28,7 @@ header{
 
 nav{
     background-color: rgb(255, 255, 102);
-    width: 50%;
+    width: 25%;
     height: 80vh;
     display: none;
     flex-direction: column;
