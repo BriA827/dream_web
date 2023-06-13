@@ -70,7 +70,11 @@ nav{
     align-items: center;
 }
 
-h1, h2{
+h1{
+    margin: 0px auto;
+}
+
+h2{
     margin: 0px auto;
 }
 
