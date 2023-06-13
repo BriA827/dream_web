@@ -59,7 +59,7 @@ nav{
     color: black;
 }
 
-.drps, .refl, .intros, .chals, .steps{
+.drps, .refl, .intros, .chals, .steps, .citas{
     width: 90%;
     margin: 0px auto;
     font-size: 22px;
@@ -70,7 +70,7 @@ nav{
     align-items: center;
 }
 
-.title{
+h1, h2{
     width: 90%;
     margin: 0px auto;
 }
