@@ -73,6 +73,7 @@ h1, h2{
     text-align: center;
 }
 
-.timeline{
+.timeline-wrapper{
+    width: 100%;
     align-items: center;
 }
