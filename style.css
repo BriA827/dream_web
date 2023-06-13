@@ -34,7 +34,7 @@ nav{
     flex-direction: column;
     justify-content: right;
     align-items: center;
-    position: sticky;
+    position: flex;
     top: 50%;
     right: 50%;
 }
@@ -71,7 +71,7 @@ nav{
 }
 
 h1, h2{
-    margin: 0px 50%;
+    margin: 0px 35%;
 }
 
 .time-wrapper{
