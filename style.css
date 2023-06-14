@@ -100,10 +100,12 @@ h1, h2{
     margin: 0 auto;
 }
 
-.rose > img{
+.rose > img,
+.toby > img{
     padding: 0 0 1% 5%;
 }
-.rose-text{
+.rose-text,
+.toby-text{
     margin: 0 1%;
     font-style: italic;
 }
