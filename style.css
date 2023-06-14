@@ -59,7 +59,7 @@ nav{
     color: black;
 }
 
-.drps, .refl, .intros, .chals, .steps, .citas{
+.drps, .refl, .intros, .chals, .steps, .citas, .rose-text{
     width: 90%;
     margin: 0px auto;
     font-size: 22px;
@@ -89,4 +89,18 @@ h1, h2{
 .about-imgs > img{
     max-height: 218.5px;
     width: auto;
+}
+
+.rose{
+    width: 98%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 2%;
+}
+
+.rose-text{
+    margin: 0 2%;
+    width: 1000px;
+    font-style: italic;
 }
