@@ -70,13 +70,23 @@ h1, h2{
 }
 
 .time-wrapper{
-    width: 90%;
+    width: 98%;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin: 0 auto;
+    margin: 0 2%;
 }
 
 .steps{
+    margin: 0 2%;
     width: 1000px;
+}
+
+.about-imgs{
+    padding: 0 5% 2%;
+}
+
+.about-imgs > img{
+    max-height: 218.5px;
+    width: auto;
 }
